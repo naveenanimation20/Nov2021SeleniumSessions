@@ -1,0 +1,29 @@
+Examples/Use Cases:
+Complex Locator Strategy using Xpath and CssSelector -- NA
+1. Dynamic WebTable Pagination - 10 mins - W1 - hold
+
+2. Calendar Handling with Previous and Future Date --> Mukesh -- W1
+http://seleniumpractise.blogspot.com/2016/08/how-to-handle-calendar-in-selenium.html
+
+3. SVG Graph Elements - Naveen -- W1
+https://emicalculator.net/
+https://petdiseasealerts.org/forecast-map#/
+
+4. Complex Shadow DOM Elements - Sanjay -- W1
+
+5. Carousel Handling with loops -- Naveen + Sanjay -- W2
+https://www.noon.com/uae-en/
+
+6. Infinite scrolling - W1
+https://www.swiggy.com/restaurants
+
+7. Complex iFrame handling - Sanjay - W1
+
+8. jQuery multi checkbox DropDown handling - 10 mins -- W2
+https://www.jqueryscript.net/demo/Drop-Down-Combo-Tree/
+
+9. Ajax WebTable Handling - 10 mins -- W1
+https://www.espncricinfo.com/series/england-tour-of-west-indies-2021-22-1256716/west-indies-vs-england-5th-t20i-1256724/full-scorecard
+
+10. Location: - Mukesh -- Bonus
+https://locations.dennys.com/search.html?q=37.36883,-122.0363496&qp=Sunnyvale,%20CA,%20USA&l=en&l=en
