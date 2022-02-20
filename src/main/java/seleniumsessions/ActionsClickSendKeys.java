@@ -22,6 +22,8 @@ public class ActionsClickSendKeys {
 		By fn = By.id("input-firstname");
 		By ln = By.id("input-lastname");
 		By login = By.xpath("//input[@value='Continue']");
+		By login1 = By.xpath("//input[@value='Continue']");
+
 		
 //		Actions act = new Actions(driver);
 //		
